@@ -21,12 +21,7 @@
             <div class="col-8">
                 <div class="navbar-nav flex-row flex-wrap bd-navbar-nav">
                     <div class="btn-group m-auto">
-                        <div>
-                            <input type="radio" class="btn-check" name="btnradio" id="btnradio-1" autoComplete="off" defaultChecked="0"}/>
-                            <label class="btn btn-outline-light" htmlFor="btnradio-1">
-                                Большие технологии
-                            </label>
-                        </div>
+						<a class="btn btn-outline-light" htmlFor="btnradio-1" href="news.php">Новости</a>
                     </div>
                 </div>
             </div>
