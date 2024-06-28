@@ -1,0 +1,27 @@
+body {
+  background-color: #1e2124;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+}
+
+.navbar .label {
+  color: white;
+}
+.navbar .logo {
+  background: url(../images/logo.gif) no-repeat center center;
+  background-size: cover;
+  width: 45px;
+  height: 40px;
+}
+
+.block-photo .avatar {
+  background: url(../images/avatar.gif) no-repeat center center;
+  background-size: cover;
+  width: 383px;
+  height: 480px;
+}
+.block-photo .title {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
